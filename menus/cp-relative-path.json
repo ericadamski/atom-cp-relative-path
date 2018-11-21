@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Copy Relative Path",
+        "command": "cp-relative-path:cp"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Copy Relative Path",
+          "submenu": [
+            {
+              "label": "Copy",
+              "command": "cp-relative-path:cp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
