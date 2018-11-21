@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "cp-relative-path:cp"
   },
-  "repository": "https://github.com/ericadamski/atom-cp-relative-path",
+  "repository": "git@github.com/ericadamski/atom-cp-relative-path",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
