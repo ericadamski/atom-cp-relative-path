@@ -1,7 +1,7 @@
 {
   "name": "cp-relative-path",
   "main": "./lib/cp-relative-path",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Quickly copy the relative path of the active file and show a notification on success",
   "keywords": [
     "copy",
